@@ -8,3 +8,7 @@ PL2303HXA自2012已經停產, 請聯繫你的購買廠商
 
 http://wp.brodzinski.net/wp-content/uploads/2014/10/IO-Cable_PL-2303_Drivers-Generic_Windows_PL2303_Prolific.zip
 
+
+![PL2303_fake3.JPG](PL2303_fake3.JPG)  
+![PL2303_fake9.JPG](PL2303_fake9.JPG)  
+
